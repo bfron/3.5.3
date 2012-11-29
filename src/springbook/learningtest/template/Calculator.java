@@ -1,10 +1,6 @@
 package springbook.learningtest.template;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
-
-//import java.io.*;
+import java.io.*;
 
 public class Calculator {
 	public Integer calcSum(String filepath) throws IOException {
